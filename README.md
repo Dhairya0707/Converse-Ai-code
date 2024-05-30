@@ -11,11 +11,6 @@ Welcome to the Converse AI Chatbot Creator! This project is designed to help use
 - **Notifications**: Users receive notifications about their chatbots and other updates.
 - **Responsive Design**: Optimized layout for both desktop and mobile devices.
 
-## Screenshots
-
-![Login Screen](screenshots/login.png)
-![Home Screen](screenshots/home.png)
-![Create Chatbot](screenshots/create.png)
 
 ## Installation
 
