@@ -44,6 +44,6 @@ Welcome to the Converse AI Chatbot Creator! This tool is designed to help you ea
 
 ## Contact Us
 
-We love hearing from our users! If you have any questions, suggestions, or feedback, please contact us at [support@converseai.com](mailto:dhairyadarji025@gmail.com).
+We love hearing from our users! If you have any questions, suggestions, or feedback, please contact us at [dhairyadarji025@gmail.com](mailto:dhairyadarji025@gmail.com).
 
 Thank you for using Converse AI Chatbot Creator! We hope you enjoy creating your custom chatbots with ease and efficiency.
